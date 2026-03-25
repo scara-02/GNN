@@ -1,0 +1,6 @@
+torch
+torch_geometric
+gradio>=4.0
+plotly
+pandas
+numpy
